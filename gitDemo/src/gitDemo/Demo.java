@@ -2,6 +2,11 @@ package gitDemo;
 
 public class Demo {
 	
+	public void sub()
+	{
+	System.out.println("sub method");
+	}
+	
 	public void sum()
 	{
 		System.out.println("sum method");
